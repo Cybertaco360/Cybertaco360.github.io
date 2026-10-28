@@ -1,58 +1,109 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Goldy Yan"
+excerpt: "Goldy Yan is a Canadian Computer Science and Technology undergraduate at Shanghai Jiao Tong University with experience in software engineering, robotics, and teaching."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<div class="profile-intro" id="about-me" markdown="1">
+<p class="profile-eyebrow"><i>Computer Science &amp; Technology · Class of 2030</i></p>
 
-<span class='anchor' id='about-me'></span>
+# Goldy Yan
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+<p class="profile-lead">I aspire to learn the mathematics, computing, and ideas that connect them.</p>
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a Canadian undergraduate studying Computer Science and Technology at **Shanghai Jiao Tong University School of Computer Science**. My interests span mathematics, quantum computing, systems design, and various interdisciplinary studies with a background in competitive systems design and engineering.
 
+My experience spans software engineering at the **University of Waterloo / Faradix**, mathematics and computer science teaching, robotics software and scouting, and Chinese translation.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+I document my projects, technical notes, and independent learning in my [Library of Thoughts](https://library.maplesyrup.me/), a public notebook designed to make what I learn useful to others.
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class="profile-actions">
+  <a class="profile-action" href="mailto:themaplesyrup@sjtu.edu.cn">Get in touch</a>
+  <a href="https://github.com/Cybertaco360">GitHub</a>
+  <a href="https://www.linkedin.com/in/goldy-yan-916224446/">LinkedIn</a>
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## Experience
+{: #experience }
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+### Software Engineer Intern
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**University of Waterloo / Faradix** · Hybrid · July–August 2026
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+Contributed and optimized to specialized libraries, modules and software used in chemical and material sciences.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+### Mathematics and Computer Science Teacher
+
+**Grand River Chinese School** · Kitchener, Ontario · September 2025–June 2026
+
+Taught competitive mathematics and computer science in a part-time contract role to elementary students.
+
+### Software & Scouting Team Member
+
+**2702 Rebels · FIRST Robotics Canada** · Kitchener, Ontario · August 2024–June 2026
+
+Contributed to the team's software and scouting systems used in FIRST Robotics competition.
+
+### Chinese Translator
+
+**International Translation Services** · May 2023–June 2026
+
+Worked as a Chinese translator, drawing on native or bilingual proficiency in Chinese and English.
+
+## Education
+{: #education }
+
+**Shanghai Jiao Tong University**<br>
+Bachelor of Engineering in Computer Science and Technology · September 2026 – July 2030 (expected)
+
+**Bluevale Collegiate Institute**<br>
+Ontario Secondary School Diploma (OSSD) · September 2023 – June 2026
+- GPA: 91%
+- Head Leader, Computer Science Club.
+- Data Management Leader, Bluevale Electric Car Team.
+- Co-Leader, Math Club.
+- Operations Advisor, Bluevale Robotics.
+
+## Technical Writing
+{: #writing }
+
+### Maple’s Library of Thoughts
+
+A public collection of project documentation, technical notes, and reflections on learning. The library brings together work across computer science, mathematics, and other areas of interest.
+
+- Built with **Astro** using the Twilight theme, with custom components written in **Vue.js** alongside the theme’s Svelte components.
+- Developed as an evolving record of projects, ideas, and independent study, with an emphasis on sharing knowledge openly.
+
+[Visit the library](https://library.maplesyrup.me/) · [View source on GitHub](https://github.com/Cybertaco360/personal-site-V2)
+
+## Technical Skills & Languages
+{: #skills }
+
+- **Programming:** Python, Javascript/Typescript, C++, C#, Bash (minor experience with ZSH), Sqlite3/PostgreSQL, and Rust.
+- **Frameworks:** Vue.js/Nuxt.js, React/Next.js, Flask, Actix, Axum, Astro.
+- **Tools & systems:** Git, Linux, SSH, Unity, Ghidra, and Computerized Battery Analyzer.
+- **AI:** Primarily Codex.
+- **Languages:** Chinese and English, both at native or bilingual proficiency;
+
+## Honors & Competitions
+{: #honors }
+
+My competition experience spans engineering design, robotics, science, and mathematics.
+
+- **University of Waterloo EVC, 24V** — First place on both events participated.
+- **University of Waterloo EVC, 12V** — 2026 event champion.
+- **FIRST Robotics Competition** — Regional champion.
+- **Western Science Olympics** — Semifinalist.
+- **University of Waterloo Mathematics** — Five distinctions across high school mathematics.
+
+## Contact
+{: #contact }
+
+For academic, technical, or project-related conversations, reach me at [themaplesyrup@sjtu.edu.cn](mailto:themaplesyrup@sjtu.edu.cn) or connect on [LinkedIn](https://www.linkedin.com/in/goldy-yan-916224446/).
+
+You can also explore my work on [GitHub](https://github.com/Cybertaco360) and read my [technical notes](https://library.maplesyrup.me/).
