@@ -1,0 +1,11 @@
+{
+    "name": "",
+    "short_name": "",
+    "icons": [
+       {
+          "src": "/pfp.jpg",
+          "sizes": "500x500",
+          "type": "image/jpeg"
+       }
+    ]
+}
