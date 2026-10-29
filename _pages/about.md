@@ -51,9 +51,9 @@ Contributed to the team's software and scouting systems used in FIRST Robotics c
 
 ### Chinese Translator
 
-**International Translation Services** · May 2023–June 2026
+**International Translation Services** · Remote · May 2023–June 2026
 
-Worked as a Chinese translator, drawing on native or bilingual proficiency in Chinese and English.
+Worked as an English to Chinese translator, drawing on native bilingual proficiencies in both Chinese and English.
 
 ## Education
 {: #education }
@@ -88,7 +88,7 @@ A public collection of project documentation, technical notes, and reflections o
 - **Frameworks:** Vue.js/Nuxt.js, React/Next.js, Flask, Actix, Axum, Astro.
 - **Tools & systems:** Git, Linux, SSH, Unity, Ghidra, and Computerized Battery Analyzer.
 - **AI:** Primarily Codex.
-- **Languages:** Chinese and English, both at native or bilingual proficiency;
+- **Languages:** Chinese and English, both at native or bilingual proficiency.
 
 ## Honors & Competitions
 {: #honors }

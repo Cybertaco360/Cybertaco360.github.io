@@ -1,10 +1,5 @@
 (function () {
-  'use strict';
-
-  var root = document.documentElement;
-  var systemTheme = window.matchMedia('(prefers-color-scheme: dark)');
-  var preference;
-  var toggle;
+  'use strict';var root = document.documentElement;var systemTheme = window.matchMedia('(prefers-color-scheme: dark)');var preference;var toggle;
 
   try {
     preference = window.localStorage.getItem('theme');
